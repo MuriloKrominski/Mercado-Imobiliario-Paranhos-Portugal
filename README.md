@@ -12,7 +12,7 @@ Posso apresentar dados de outras "Zonas", caso seja do interesse do leitor.
 Dados confidenciais ficaram de fora dessa pequena amostragem e são de uso exclusivo das partes interesadas.
 Logo nas primeiras imagens seguem os valores que de fato mais interessavam para os investidores estrangeiros que procuravam a RE/MAX. 
 
-#Freguesia de Paranhos - Porto - Portugal
+# Freguesia de Paranhos - Porto - Portugal
 ![image](https://user-images.githubusercontent.com/67916535/181844657-e3a369aa-f97d-4412-8f9a-0bf97c5ba0e0.png)
 
 ![image](https://user-images.githubusercontent.com/67916535/181844187-79f8db40-e14e-4901-ba5d-9552907792e5.png)
