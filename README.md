@@ -21,7 +21,7 @@ Logo nas primeiras imagens seguem os valores que de fato mais interessavam para 
 
 ![image](https://user-images.githubusercontent.com/67916535/181844156-895df0f0-43ff-47c1-b1fa-b08b6a0ba386.png)
 
-#Breve comparativo – Freguesias
+# Breve comparativo – Freguesias
 
 Paranhos - T1
 2.095,93 EUR Preço médio de venda por m²
@@ -155,7 +155,7 @@ Ramalde - T2
 
 ![image](https://user-images.githubusercontent.com/67916535/181844920-c6e94d6c-be45-4e57-a7fb-933d6046de29.png)
 
-#Comercial (582 locais)
+# Comercial (582 locais)
 ![image](https://user-images.githubusercontent.com/67916535/181845042-4b83c6e3-30a4-4804-9424-2c9bbd563fb8.png)
 
 
