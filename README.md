@@ -1,3 +1,5 @@
+## Por: Murilo Krominski https://murilokrominski.github.io
+
 # Mercado Imobiliário Paranhos Portugal
 Realizei um Dossiê a pedido da RE/MAX de Portugal sobre áreas de investimento imobiliário no norte de Portugal.
 Essa foi a primeira vez que um trabalho assim foi realizado, pois pela primeira vez os dados oficiais das Freguesias foram comparados com os registros de imobiliárias locais que aceitaram fazer parte da pesquisa, e somadas essas parcerias, obtivemos mais de 85% do Mercado mapeado com precisão, após a finalização do trabalho. 
