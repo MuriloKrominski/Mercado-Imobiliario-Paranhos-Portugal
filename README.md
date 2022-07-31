@@ -1,6 +1,7 @@
 # Mercado Imobiliário Paranhos Portugal
 Realizei um Dossiê a pedido da RE/MAX de Portugal sobre áreas de investimento imobiliário no norte de Portugal.
-Essa foi a primeira vez que um trabalho assim foi realizado, pois pela primeira vez os dados oficiais das Freguesias foram comparados com os registros de imobiliárias locais que aceitaram fazer parte da pesquisa, e somadas essas parcerias obtidas, obtivemos mais de 85% do Mercado mapeado com precisão, mas ainda faltavam juntarmos os dados arrumarmos inconsistencias e submte-los a testes que pudessem ser auditados.
+Essa foi a primeira vez que um trabalho assim foi realizado, pois pela primeira vez os dados oficiais das Freguesias foram comparados com os registros de imobiliárias locais que aceitaram fazer parte da pesquisa, e somadas essas parcerias, obtivemos mais de 85% do Mercado mapeado com precisão, após a finalização do trabalho. 
+Os dados foram integrados, suas inconsistências arrumadas, e foram submetidos a testes, nos quais foram aprovados...
 Foi um Estudo de Mercado Completo, feito em Data Science, com dados auditados pelo CI (Confidencial Imobiliário), no qual fiz um levantamento por "Zona", apresentando um panorama sobre variáveis e características sócio demográficas, com direito a posterior mapeamento aéreo e vídeo, em trabalho posterior, que posso apresentar para quem tiver interesse.
 
 Foi me permitido usar partes deste trabalho, depois de análise interna, para uso próprio, na condição de estar vinculado ao grupo RE/MAX Portugal como consultor imobiliário.
